@@ -4,8 +4,8 @@ I like to do fun projects i am passionate about :)
 
 <a href="https://buymeacoffee.com/derjunker" target="_blank">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="buttons/bmc-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="buttons/bmc-light.svg">
-    <img alt="Buy me a coffee link" src="buttons/bmc-dark.svg" width="150">
+    <source media="(prefers-color-scheme: dark)" srcset="buttons/bmc-light.svg">
+    <source media="(prefers-color-scheme: light)" srcset="buttons/bmc-dark.svg">
+    <img alt="Buy me a coffee link" src="buttons/bmc-light.svg" width="150">
   </picture>
 </a>
