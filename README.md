@@ -9,7 +9,7 @@ I like to do fun projects i am passionate about :)
     <img alt="junkers split tracker link" src="buttons/bmc-light.svg" height="50">
   </picture>
 </a>
-
+&nbsp; &nbsp; &nbsp;
 <a href="https://pogostuckleaderboards.vercel.app" target="_blank">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="buttons/leaderboards-light.svg">
