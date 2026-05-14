@@ -2,6 +2,7 @@
 I'm currently doing my Masters in CS and work part time at a software firm.
 I like to do fun projects i am passionate about :)
 
+<p>
 <a href="https://derjunker.github.io/junker-s-split-tracker-website/" target="_blank">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="buttons/split-tracker-light.svg">
@@ -16,8 +17,8 @@ I like to do fun projects i am passionate about :)
     <source media="(prefers-color-scheme: light)" srcset="buttons/leaderboards-dark.svg">
     <img alt="Buy me a coffee link" src="buttons/bmc-light.svg" height="50">
   </picture>
-</a>
-<br/>
+</a></p>
+<p>
 <a href="https://buymeacoffee.com/derjunker" target="_blank">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="buttons/bmc-light.svg">
@@ -25,3 +26,4 @@ I like to do fun projects i am passionate about :)
     <img alt="Buy me a coffee link" src="buttons/bmc-light.svg" height="50">
   </picture>
 </a>
+</p>
